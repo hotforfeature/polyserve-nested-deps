@@ -1,0 +1,10 @@
+{
+  "name": "polyserve-nested-deps",
+  "version": "0.0.0",
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  }
+}

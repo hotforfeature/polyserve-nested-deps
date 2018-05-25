@@ -1,0 +1,7 @@
+{
+  "name": "@codebakery/child",
+  "version": "0.0.0",
+  "dependencies": {
+    "lit-html": "^0.10.0"
+  }
+}
